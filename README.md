@@ -1,1 +1,1 @@
-# AirBnb-Price-Prediction-Visuation
+# AirBnb-Price-Prediction-Visualization
